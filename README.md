@@ -2,6 +2,7 @@
 
 This repo contains all the python projects I will be completing for the Tech Academy Python course.
 
+It includes:
 - Application for copying files from one folder to another
 - Web page generator
 - Various Python language construct examples
